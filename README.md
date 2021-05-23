@@ -9,8 +9,8 @@ With this software we introduce VEdit, a useful Text editor for command prompt.
 <br/>
 
 ## Installation
-Install .Net Framework 4.6.2 or higher
-Download and extract the zip from: ;link drive,
+Install .Net Framework 4.6.2 or higher <br>
+Download and extract the zip from: ;link drive, <br>
 Set the folder where it has been downloaded in "System Path" from **Enviroment Option**.
 
 ## Usage
