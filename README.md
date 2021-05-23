@@ -1,10 +1,12 @@
 # VEdit
 A text editor for command prompt, with TUI interface
 
-In Windows 10 doesn't exist a Text-Editor for Command Prompt, like the one of MS-DOS. <br>
+In Windows 10 doesn't exist a Text-Editor for Command Prompt, like the one of MS-DOS. <br/>
 With this software we introduce VEdit, a useful Text editor for command prompt.
 
-![Screen about VEdit](/image.png)
+<img src="Vedit.png" alt="Screen about VEdit" width="750"/>
+
+<br/>
 
 ## Installation
 Download and extract the zip from: ;link drive,
