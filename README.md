@@ -20,7 +20,7 @@ To open VEdit digit from CMD:
 <br/>
 
 ```diff
-- In Windows Terminal this softare doesn't work properly
+- In Windows Terminal this softare may not work properly
 ```
 
 <br/>
